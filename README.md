@@ -34,7 +34,7 @@ Data visualization is a crucial aspect of the project. Matplotlib and Seaborn ar
 
 ## Technology Stack
 - Python for data analysis and machine learning.
-- Libraries: Pandas for data manipulation, Matplotlib and Seaborn for data visualization, Scikit-learn for predictive modeling.
+- Libraries: Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Scikit-learn for predictive modeling.
 - Jupyter Notebook for interactive development and documentation.
 
 ## Project Output
